@@ -1,0 +1,9 @@
+using namespace std : std automatico
+
+int : Datos enteros Numeros, etc
+
+float : Dato flotante
+
+double : Puedes almacenar numeros mas largos o grandes numeros como 12.2121
+
+char : Tipo de letra "Una letra o caracter, Tambien puede ser un numero"
